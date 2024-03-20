@@ -2,9 +2,9 @@
 This project is a simple RESTful API built with Django and Django Rest Framework (DRF) for managing a blog. It allows users to perform CRUD (Create, Read, Update, Delete) operations on blog posts and comments.
 
 ## Features
-User authentication and authorization.
-CRUD operations for blog posts.
-CRUD operations for comments on blog posts.
+- User authentication and authorization.
+- CRUD operations for blog posts.
+- CRUD operations for comments on blog posts.
 ---
 
 ### Install dependencies:
