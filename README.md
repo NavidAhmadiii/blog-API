@@ -30,4 +30,6 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 ---
-
+#### User and Password admin
+- user = admin
+- password = admin
